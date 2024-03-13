@@ -4,7 +4,9 @@ CS10 lessons for promotion
 Image of my GUI: 
 
 feature descriptions 
-- [ ] Item 1 
+- [ ] Make it pink + white and with multiple flowers!
+- [ ] Nav has links to Home page, playlist page, page with credits
+- [ ] Aside has the links to the templates created
 
 Text descriptions for website
 - [ ]
@@ -12,4 +14,4 @@ Text descriptions for website
 Document map
 - [ ] Home page
 - [ ] GUI page, when you click on a link in nav this is where you go too
-- [ ] Music
+- [ ] Actual music player thingy
