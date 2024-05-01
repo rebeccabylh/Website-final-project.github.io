@@ -1,6 +1,9 @@
 # Website-final-project.github.io
 CS10 lessons for promotion
 
+I won't end up using this repository lol
+---
+
 Image of my GUI: 
 
 feature descriptions 
